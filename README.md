@@ -68,8 +68,3 @@ npm run build
 ## Documentação da API
 
 A documentação da API está disponível em `/docs` após iniciar o servidor.
-
-## Licença
-
-Este projeto está licenciado sob a licença ISC.
-```

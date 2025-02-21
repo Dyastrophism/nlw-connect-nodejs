@@ -17,3 +17,6 @@ GET http://localhost:3333/subscribers/guilherme/ranking/clicks
 ###
 
 GET http://localhost:3333/subscribers/guilherme/ranking/count
+
+###
+GET http://localhost:3333/ranking
